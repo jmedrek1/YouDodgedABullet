@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="lwjgl" />
+  <library name="res">
+    <archive path="C:/Users/Jack/IdeaProjects/GameBuild/res" />
+    <archive path="C:/Users/Jack/Downloads/Libs/Libs/jars/jinput.jar" />
+    <archive path="C:/Users/Jack/Downloads/Libs/Libs/jars/jogg-0.0.7.jar" />
+    <archive path="C:/Users/Jack/Downloads/Libs/Libs/jars/jorbis-0.0.15.jar" />
+    <archive path="C:/Users/Jack/Downloads/Libs/Libs/jars/lwjgl.jar" />
+    <archive path="C:/Users/Jack/Downloads/Libs/Libs/jars/slick.jar" />
+  </library>
+</eclipse-userlibraries>
+
